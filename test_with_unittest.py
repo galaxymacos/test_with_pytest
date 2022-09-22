@@ -1,3 +1,4 @@
+# Run with the command "python -m unittest discover"
 from unittest import TestCase
 
 

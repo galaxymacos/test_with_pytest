@@ -1,3 +1,4 @@
+# Run test with the command "pytest"
 def test_always_passes():
     assert True
 
